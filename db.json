@@ -1,5 +1,5 @@
 {
- "transactions":[
+  "transactions": [
     {
       "id": 1,
       "description": "Desenvolvimento de site",
@@ -15,6 +15,22 @@
       "category": "Compra",
       "price": 38,
       "createdAt": "2023-04-27T07:41:45.082Z"
+    },
+    {
+      "description": "Desenvolvimento de API",
+      "price": 15000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2023-04-23T13:07:56.230Z",
+      "id": 3
+    },
+    {
+      "description": "Almoco com a guria",
+      "price": 780,
+      "category": "Alimento",
+      "type": "outcome",
+      "createdAt": "2023-04-23T13:31:02.320Z",
+      "id": 4
     }
   ]
 }
